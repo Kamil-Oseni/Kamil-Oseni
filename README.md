@@ -1,6 +1,8 @@
+"Any fool can write or design code or programs that a computer can understand. But only good programmers write codes that humans understand." - Martin Fowler.
+
 A Product & UI/UX Designer with a Passion for Creating Innovative Products.
 
-I'm a sucker for all things art — paintings, sculptures, talent, dance, the environment, and anything that screams art. When I'm not binging on cartoons or anime, you can find me rollerblading, writing, taking pictures of my surroundings, or working on a new project. 
+I'm a sucker for all things art — paintings, sculptures, talent, dance, the environment, and anything that screams art. When I'm not binge-watching cartoons or anime, you can find me rollerblading, writing, taking pictures of my surroundings, or working on a new project.
 And of course, I have a huge soft spot for dogs!......... and Dolphins!!
 
 Art, Anime, Animals, Math, Logic & puzzles, Photography, Rollerblading, Nature, and Video Games.

@@ -12,6 +12,13 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kamil-oseni&label=Profile%20views&color=0e75b6&style=flat" alt="kamil-oseni" /> </p>
 
 
+<b><i>Bridging Artistry with Innovation</i></b>
+
+Combining a love for design and technology, I specialize in crafting seamless user experiences and innovative products. I thrive at the intersection of art and functionality, leveraging skills in C++, HTML/CSS, and more to bring ideas to life.
+
+Beyond coding, I immerse myself in art, nature, and the vibrant worlds of anime and photography.
+Let's connect and explore the possibilities of impactful designs together.
+
 
 - <b>Design Portfolio:</b> [https://kamil-oseni.netlify.app/](https://kamil-oseni.netlify.app/)
 

@@ -18,17 +18,23 @@
 - <b>Email:</b> kamilzoseni@gmail.com
 
 - <b>Check out my Resume:</b> <a href="https://drive.google.com/file/d/1vEWwJIjXc2qVbOwGyAUes8z1Qcbr91y3/view?usp=sharing" target="_blank" rel="noopener noreferrer](https://drive.google.com/file/d/1vEWwJIjXc2qVbOwGyAUes8z1Qcbr91y3/view?usp=sharing](https://drive.google.com/file/d/1vEWwJIjXc2qVbOwGyAUes8z1Qcbr91y3/view?usp=sharing))" target="_blank" >Resume</a>
+<br>
 <hr>
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kamilzamani1" target="blank"><img align="center" src="https://www.highsnobiety.com/static-assets/dato/1690191545-twitter-elon-musk-04.jpg?dpr=0.5" alt="kamilzamani1" height="30" width="40" /></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://linkedin.com/in/kamiloseni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamiloseni" height="30" width="40" /></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://instagram.com/kamilzamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamilzamani" height="30" width="40" /></a>
 </p>
+<br>
 <hr>
 
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -52,8 +58,12 @@
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br>
 <hr>
+<br>
+<div style="display: flex; justify-content: center;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamil-oseni&show_icons=true&locale=en&layout=compact" alt="kamil-oseni" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kamil-oseni&" alt="kamil-oseni" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamil-oseni&show_icons=true&locale=en&layout=compact" alt="kamil-oseni" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kamil-oseni&" alt="kamil-oseni" /></p>
+<br>

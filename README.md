@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&repeat=false&random=false&width=435&lines=Kamil+Oseni" alt="Typing SVG" />
 </p>
 <p align="center" dir="auto">  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&random=false&width=435&lines=Experienced+Product+Designer;1+year+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&random=false&width=435&lines=Experienced+Product+Designer;1+year+of+coding+experience;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 <h5 align="center">A passionate Product Designer and Developer in Toronto, Canada.</h5>

@@ -14,11 +14,9 @@
 
 <b><i>Bridging Artistry with Innovation</i></b>
 
-Combining a love for design and technology, I specialize in crafting seamless user experiences and innovative products. I thrive at the intersection of art and functionality, leveraging skills in Design, C++, HTML/CSS, and more to bring ideas to life.
+Over the past five years, I have been a Product and UI/UX Designer, and I am skilled in programming languages like C, C++, JavaScript, and design tools such as Figma, Photoshop, Jira, HTML, CSS, and a lot more. This allows me to approach design from a different perspective. For example, I apply the principle of inheritance in object-oriented programming in my design systems, making sure that the products I design are intuitive, reusable, and user-friendly. Users should be able to interact with my designs with minimal or no additional guidance, as they are built on recognizable designs.
 
-Beyond coding, I immerse myself in art, nature, and the vibrant worlds of anime and photography.
-Let's connect and explore the possibilities of impactful designs together.
-
+Other than programming, I find inspiration from arts, nature, anime, and photography.
 
 - <b>Design Portfolio:</b> [https://kamil-oseni.netlify.app/](https://kamil-oseni.netlify.app/)
 

@@ -14,7 +14,7 @@
 
 <b><i>Bridging Artistry with Innovation</i></b>
 
-Over the past five years, I have been a Product and UI/UX Designer, and I am skilled in programming languages like C, C++, JavaScript, and design tools such as Figma, Photoshop, Jira, HTML, CSS, and a lot more. This allows me to approach design from a different perspective. For example, I apply the principle of inheritance in object-oriented programming in my design systems, making sure that the products I design are intuitive, reusable, and user-friendly. Users should be able to interact with my designs with minimal or no additional guidance, as they are built on recognizable designs.
+Over the past five years, I have been a Product and UI/UX Designer, and I am skilled in programming languages like C, C++, JavaScript, and design and management tools such as Figma, Photoshop, Jira, HTML, CSS, and a lot more. This allows me to approach design from a different perspective. For example, I apply the principle of inheritance in object-oriented programming in my design systems, making sure that the products I design are intuitive, reusable, and user-friendly. Users should be able to interact with my designs with minimal or no additional guidance, as they are built on recognizable designs.
 
 Other than programming, I find inspiration from arts, nature, anime, and photography.
 
